@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Reflect:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Reflect-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Reflect:war exploded" />
+    </root>
+  </artifact>
+</component>
